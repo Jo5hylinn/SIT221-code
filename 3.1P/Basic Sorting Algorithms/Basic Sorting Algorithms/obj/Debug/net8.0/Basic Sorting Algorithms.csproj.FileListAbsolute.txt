@@ -1,0 +1,14 @@
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\bin\Debug\net8.0\Basic Sorting Algorithms.exe
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\bin\Debug\net8.0\Basic Sorting Algorithms.deps.json
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\bin\Debug\net8.0\Basic Sorting Algorithms.runtimeconfig.json
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\bin\Debug\net8.0\Basic Sorting Algorithms.dll
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\bin\Debug\net8.0\Basic Sorting Algorithms.pdb
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.AssemblyInfoInputs.cache
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.AssemblyInfo.cs
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.csproj.CoreCompileInputs.cache
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.dll
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\refint\Basic Sorting Algorithms.dll
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.pdb
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\Basic Sorting Algorithms.genruntimeconfig.cache
+D:\Uni Work 2024 T1\SIT 221\3.1P\Basic Sorting Algorithms\Basic Sorting Algorithms\obj\Debug\net8.0\ref\Basic Sorting Algorithms.dll

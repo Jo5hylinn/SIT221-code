@@ -1,0 +1,14 @@
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\bin\Debug\net8.0\A simple dynamic collection of elements.exe
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\bin\Debug\net8.0\A simple dynamic collection of elements.deps.json
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\bin\Debug\net8.0\A simple dynamic collection of elements.runtimeconfig.json
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\bin\Debug\net8.0\A simple dynamic collection of elements.dll
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\bin\Debug\net8.0\A simple dynamic collection of elements.pdb
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.AssemblyInfoInputs.cache
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.AssemblyInfo.cs
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.csproj.CoreCompileInputs.cache
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.dll
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\refint\A simple dynamic collection of elements.dll
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.pdb
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\A simple dynamic collection of elements.genruntimeconfig.cache
+D:\Uni Work 2024 T1\SIT 221\1.1P\A simple dynamic collection of elements\A simple dynamic collection of elements\obj\Debug\net8.0\ref\A simple dynamic collection of elements.dll
